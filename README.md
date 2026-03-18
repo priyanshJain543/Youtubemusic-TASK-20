@@ -4,7 +4,7 @@ A high-performance, fully responsive music player built with **Vanilla JavaScrip
 
 ## 🚀 Live Demo
 Check out the live application here:  
-👉 **[Live Project Link]()** *(Note: Update this with your actual URL)*
+👉 **[Live Project Link]( https://priyanshjain543.github.io/Youtubemusic-TASK-20/)** *(Note: Update this with your actual URL)*
 
 ## ✨ Key Features
 * **Custom Branding**: YouTube Music inspired favicon and tab title implementation.
